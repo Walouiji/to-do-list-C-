@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoList.Views.CreateTaskList">
+
+    <StackLayout Margin="20">
+        <Editor Placeholder="Title"
+                PlaceholderColor="Gray"
+                Text="{Binding Text}"
+                TextColor="Black"
+                HeightRequest="50" />
+        <Editor Placeholder="Content"
+                PlaceholderColor="Gray"
+                Text="{Binding Text}"
+                TextColor="Black"
+                HeightRequest="100" />
+        <Grid ColumnDefinitions="*,*">
+            <Button Text="Save" Grid.Column="0"/>
+            <Button Grid.Column="1"
+                    Text="Delete"/>
+        </Grid>
+    </StackLayout>
+</ContentPage>

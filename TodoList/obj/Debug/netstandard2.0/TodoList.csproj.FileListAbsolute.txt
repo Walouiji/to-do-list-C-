@@ -1,0 +1,16 @@
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\bin\Debug\netstandard2.0\TodoList.deps.json
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\bin\Debug\netstandard2.0\TodoList.dll
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\bin\Debug\netstandard2.0\ref\TodoList.dll
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\bin\Debug\netstandard2.0\TodoList.pdb
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.AssemblyInfoInputs.cache
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.AssemblyInfo.cs
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.dll
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\obj\Debug\netstandard2.0\ref\TodoList.dll
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.pdb
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\obj\Debug\netstandard2.0\Views\CreateTaskList.xaml.g.cs
+C:\Users\alexandre\Documents\dev\c#\TodoList\TodoList\obj\Debug\netstandard2.0\Views\ViewTaskList.xaml.g.cs
